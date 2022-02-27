@@ -1,6 +1,11 @@
 # dsc90-wi22-hw06
 
 Homework 6 for History of Data Science, Winter 2022 @ UC San Diego.
+
+# Homework 6 for History of Data Science
+### At the University of California San Diego
+## By Trey Scheid
+### t.reyhucks11@gmail.com
 <br>
 <br>
 <br>
@@ -9,10 +14,6 @@ Homework 6 for History of Data Science, Winter 2022 @ UC San Diego.
 <br>
 <br>
 <iframe src='/dsc90-wi22-hw06/galton_heights_3d.html' width=800 height=600 frameBorder=0></iframe>
-<br>
-<br>
-<br>
-<iframe src='galton_heights_3d.html' width=800 height=600 frameBorder=0></iframe>
 <br>
 <br>
 <br>
